@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-今天刚看到github多了个新功能，仓库名字与用户名一样时会显示在个人主页上，就来试了试。
+New function of GitHub. The same name as your username will be shown on your profile page.
 
 HyperPh is the main userid of PCI on github up to now.
 You can find PCILib here.
